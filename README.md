@@ -60,19 +60,6 @@ The project requires two text files: `graph.txt` for the adjacency list and `coo
   4 2.57 1.99
   ```
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Acknowledgments
-
-- [GraphStream](https://graphstream-project.org/) for providing the graph visualization toolkit.
-- The A* algorithm, for its efficiency in pathfinding problems.
-
-## Contact
-
-Abigail Beneduce - AbigailBeneduce@gmail.com 
-
 Project Link: [https://github.com/AbigailAC/graph-pathfinding](https://github.com/AbigailAC/graph-pathfinding)
 
 ---
