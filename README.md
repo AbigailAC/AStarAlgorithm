@@ -1,6 +1,6 @@
 # Graph-Based Shortest Pathfinding
 
-This project implements an efficient pathfinding algorithm using the A* (A-star) algorithm to navigate an undirected graph. It reads the graph structure and node coordinates from text files, calculates edge weights based on Euclidean distances between nodes, and visualizes the shortest path and obstacles using GraphStream.
+This project implements an efficient pathfinding algorithm using the A* (A-star) algorithm to navigate an undirected graph. It reads the graph structure and node coordinates from text files, calculates edge weights based on Euclidean distances between nodes, and visualizes the shortest path and obstacles using GraphStream. This was done for CAP6635: Advanced Artificial Intelligence during my Master's program.
 
 ## Features
 
@@ -59,10 +59,6 @@ The project requires two text files: `graph.txt` for the adjacency list and `coo
   3 4.56 2.09
   4 2.57 1.99
   ```
-
-## Contributing
-
-As this was done for CAP6635: Advanced Artificial Intelligence during my Master's program, no contributions will be accepted.
 
 ## License
 
